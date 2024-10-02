@@ -3,6 +3,9 @@
 A new Flutter project.
 
 ## Getting Started
+| Nama | NIM | Kelas |
+| --- | --- | --- |
+| Cahyo Adi Prasetia | 2241720191 | TI-3F |
 ### Praktikum 1 - Membuat Project Flutter Baru
 ![alt text](images/image2.png)
 ### Praktikum 2 - Menghubungkan Emu
